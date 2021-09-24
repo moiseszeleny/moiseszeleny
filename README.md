@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I am Moises Zeleny a PhD student in physics specialized on phenomenology of particle physics  :punch:.
-- 🔭 I’m currently working on phenomenology of Lepton Flavor Violation Higgs decays. The general formulae for the form factors of these process are available in my repository [OneLoopLFVHD](https://github.com/moiseszeleny/OneLoopLFVHD). ALso, I am currently a collaborator of @spacemathproject, I am creating the python version of SPACEMATH, library to explore the allowed parameter space of Beyond the Standard Model (BSM) give it in the repository [spacemathpy](https://github.com/spacemathproject/spacemathpy)
+- 🔭 I’m currently working on phenomenology of Lepton Flavor Violation Higgs decays. The general formulae for the form factors of these process are available in my repository [OneLoopLFVHD](https://github.com/moiseszeleny/OneLoopLFVHD). ALso, I am currently a collaborator of [spacemathproject](https://github.com/spacemathproject), I am creating the python version of SPACEMATH, give it in the repository [spacemathpy](https://github.com/spacemathproject/spacemathpy)
 - 💬 Ask me about particle physics, python, ubuntu, basics of git and github.
 - 🌱 I’m currently learning data science and machine learning.
 
