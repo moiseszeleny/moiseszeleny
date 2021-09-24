@@ -8,7 +8,7 @@ I am Moises Zeleny a PhD student in physics specialized on phenomenology of part
 Expertise in python libraries like 
 - sympy
 - numpy
-- matplotib
+- matplotlib
 - pandas
 - mpmath
 
