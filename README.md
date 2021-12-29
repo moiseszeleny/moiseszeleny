@@ -12,6 +12,8 @@ Expertise in python libraries like
 - pandas
 - mpmath
 
+Also, I am a Jupyter notebook user.
+
 <!--
 **moiseszeleny/moiseszeleny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
